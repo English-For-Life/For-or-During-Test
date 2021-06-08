@@ -42,7 +42,7 @@ const quiz = [
     },
     {
         q:"We were hungry when we arrived. We hadn’t eaten anything ..... the journey.",
-        options:["during", "during"],
+        options:["during", "for"],
         answer: 0
     },
     {
